@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms
-# CS 300 Course Projects
+# CS 300 Course Project
 
 ## Project Description
 
